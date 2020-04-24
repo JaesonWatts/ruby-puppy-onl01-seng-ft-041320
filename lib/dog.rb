@@ -2,6 +2,7 @@ class Dog
 
   @@all  = []
   
+  
 
 
 end
